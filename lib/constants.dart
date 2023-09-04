@@ -8,4 +8,4 @@ enum HttpType{
   delete,
 }
 
-  const baseUrl = " https://jsonplaceholder.typicode.com";
+  const baseUrl = "https://jsonplaceholder.typicode.com";
